@@ -1,0 +1,14 @@
+2026-10-11 11:50:02 ℹ [INFO] Navigated to: https://www.saucedemo.com/
+2026-10-11 11:50:02 ℹ [INFO] Filled field: getByPlaceholder('Username')
+2026-10-11 11:50:02 ℹ [INFO] Filled field: locator('#password')
+2026-10-11 11:50:02 ℹ [INFO] Clicked on: getByRole('button', { name: 'Login' })
+2026-10-11 11:50:02 ℹ [INFO] Submitted login form
+2026-10-11 11:50:02 ℹ [INFO] Clicked on: locator('[data-test="add-to-cart-sauce-labs-backpack"]')
+2026-10-11 11:50:02 ℹ [INFO] Added product to cart: Sauce Labs Backpack
+2026-10-11 11:50:02 ℹ [INFO] Clicked on: locator('[data-test="add-to-cart-sauce-labs-bolt-t-shirt"]')
+2026-10-11 11:50:02 ℹ [INFO] Added product to cart: Sauce Labs Bolt T-Shirt
+2026-10-11 11:50:02 ℹ [INFO] Clicked on: locator('[data-test="add-to-cart-sauce-labs-onesie"]')
+2026-10-11 11:50:02 ℹ [INFO] Added product to cart: Sauce Labs Onesie
+2026-10-11 11:50:03 ℹ [INFO] Clicked on: locator('//a[@class=\'shopping_cart_link\']')
+2026-10-11 11:50:03 ℹ [INFO] Opened the shopping cart
+2026-10-11 11:50:03 ℹ [INFO] Verified 3 products in the cart

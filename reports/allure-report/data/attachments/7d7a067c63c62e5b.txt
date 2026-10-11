@@ -1,0 +1,6 @@
+2026-10-11 11:50:09 ℹ [INFO] Navigated to: https://www.saucedemo.com/
+2026-10-11 11:50:09 ℹ [INFO] Filled field: getByPlaceholder('Username')
+2026-10-11 11:50:09 ℹ [INFO] Filled field: locator('#password')
+2026-10-11 11:50:09 ℹ [INFO] Clicked on: getByRole('button', { name: 'Login' })
+2026-10-11 11:50:09 ℹ [INFO] Submitted login form
+2026-10-11 11:50:09 ℹ [INFO] Verified expected login error for lockedOut

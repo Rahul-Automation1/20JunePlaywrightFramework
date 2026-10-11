@@ -1,0 +1,1 @@
+[{"values":["qa"],"name":"environment"},{"values":["https://www.saucedemo.com"],"name":"baseURL"},{"values":["chromium"],"name":"browser"},{"values":["true"],"name":"headless"},{"values":["win32 10.0.26200"],"name":"os"},{"values":["v24.19.0"],"name":"nodeVersion"},{"values":["2026-10-11T06:19:14.321Z"],"name":"timestamp"}]

@@ -1,0 +1,99 @@
+2026-10-02 15:48:06 ✗ [FAIL] Test failed: TC_CART_03: cart page title is correct
+2026-10-02 15:48:06 ✗ [FAIL] Test failed: TC_CART_02: added items appear in the cart
+2026-10-02 15:48:06 ✗ [FAIL] Test failed: TC_CART_01: cart badge reflects number of added items @smoke
+2026-10-02 15:48:06 ✗ [FAIL] Test failed: TC_CART_04: remove item from the cart page
+2026-10-02 15:48:10 ✗ [FAIL] Test failed: TC_CART_05: product price is correct in cart
+2026-10-02 15:48:10 ✗ [FAIL] Test failed: TC_CART_06: continue shopping returns to inventory
+2026-10-02 15:48:10 ✗ [FAIL] Test failed: TC_CART_07: items persist after continue shopping
+2026-10-02 15:48:10 ✗ [FAIL] Test failed: TC_CART_08: checkout button navigates to checkout step one
+2026-10-02 15:48:14 ✗ [FAIL] Test failed: TC_CART_09: checkout button navigates to checkout step one
+2026-10-02 15:49:14 ✗ [FAIL] Test failed: Valid user can login
+2026-10-02 15:51:19 ✗ [FAIL] Test failed: cart displays a product added from inventory
+2026-10-02 15:51:19 ✗ [FAIL] Test failed: TC_CHECKOUT_02: complete order - Indian customer @smoke
+2026-10-02 15:51:19 ✗ [FAIL] Test failed: completed checkout displays the order confirmation
+2026-10-02 15:51:20 ✗ [FAIL] Test failed: TC_CHECKOUT_01: complete order - Standard US customer @smoke
+2026-10-02 15:51:28 ✗ [FAIL] Test failed: TC_CHECKOUT_03: complete order - Customer with special char in last name @smoke
+2026-10-02 15:51:28 ✗ [FAIL] Test failed: TC_CHECKOUT_04: validation - Missing first name
+2026-10-02 15:51:28 ✗ [FAIL] Test failed: TC_CHECKOUT_06: validation - Missing postal code
+2026-10-02 15:51:28 ✗ [FAIL] Test failed: TC_CHECKOUT_05: validation - Missing last name
+2026-10-03 10:45:51 ✗ [FAIL] Test failed: TC_INV_02: every product has a name, price and image
+2026-10-03 16:35:40 ✗ [FAIL] Test failed: FB login Functionality
+2026-10-03 16:36:29 ✗ [FAIL] Test failed: FB login Functionality
+2026-10-04 14:10:45 ✗ [FAIL] Test failed: FB login Functionality
+2026-10-04 14:23:02 ✗ [FAIL] Test failed: TC_CART_08: checkout button navigates to checkout step one
+2026-10-04 14:23:02 ✗ [FAIL] Test failed: TC_CART_07: items persist after continue shopping
+2026-10-04 14:23:05 ✗ [FAIL] Test failed: TC_CART_09: checkout button navigates to checkout step one
+2026-10-04 14:23:05 ✗ [FAIL] Test failed: cart displays a product added from inventory
+2026-10-04 14:23:56 ✗ [FAIL] Test failed: TC_INV_01: exactly 6 products are displayed @smoke
+2026-10-06 12:48:23 ✗ [FAIL] Test failed: TC_INV_01: exactly 6 products are displayed @smoke
+2026-10-06 13:06:01 ✗ [FAIL] Test failed: TC_INV_02: every product has a name, price and image
+2026-10-06 13:06:03 ✗ [FAIL] Test failed: TC_INV_01: exactly 6 products are displayed @smoke
+2026-10-06 13:06:17 ✗ [FAIL] Test failed: TC_E2E_03: resetting app state mid-journey clears the cart before a fresh purchase
+2026-10-06 13:07:04 ✗ [FAIL] Test failed: TC_INV_07: sort products Price high to low
+2026-10-06 13:07:26 ✗ [FAIL] Test failed: TC_INV_09: add multiple products updates cart badge
+2026-10-06 13:07:41 ✗ [FAIL] Test failed: TC_CART_03: cart page title is correct
+2026-10-06 13:07:41 ✗ [FAIL] Test failed: TC_CART_01: cart badge reflects number of added items @smoke
+2026-10-06 13:07:45 ✗ [FAIL] Test failed: TC_CART_04: remove item from the cart page
+2026-10-06 13:07:45 ✗ [FAIL] Test failed: TC_CART_02: added items appear in the cart
+2026-10-06 13:07:45 ✗ [FAIL] Test failed: TC_CART_05: product price is correct in cart
+2026-10-06 13:07:46 ✗ [FAIL] Test failed: TC_WIN_04: original tab stays on inventory after opening a social tab @smoke
+2026-10-06 13:07:47 ✗ [FAIL] Test failed: TC_CART_06: continue shopping returns to inventory
+2026-10-06 13:07:47 ✗ [FAIL] Test failed: TC_CART_08: checkout button navigates to checkout step one
+2026-10-06 13:07:48 ✗ [FAIL] Test failed: TC_CART_09: checkout button navigates to checkout step one
+2026-10-06 13:07:48 ✗ [FAIL] Test failed: TC_CART_07: items persist after continue shopping
+2026-10-06 13:07:49 ✗ [FAIL] Test failed: cart displays a product added from inventory
+2026-10-06 13:07:51 ✗ [FAIL] Test failed: TC_CHECKOUT_01: complete order - Standard US customer @smoke
+2026-10-06 13:07:51 ✗ [FAIL] Test failed: TC_CHECKOUT_02: complete order - Indian customer @smoke
+2026-10-06 13:07:51 ✗ [FAIL] Test failed: completed checkout displays the order confirmation
+2026-10-06 13:07:52 ✗ [FAIL] Test failed: TC_CHECKOUT_03: complete order - Customer with special char in last name @smoke
+2026-10-06 13:07:53 ✗ [FAIL] Test failed: TC_CHECKOUT_04: validation - Missing first name
+2026-10-06 13:07:53 ✗ [FAIL] Test failed: TC_CHECKOUT_05: validation - Missing last name
+2026-10-06 13:07:54 ✗ [FAIL] Test failed: TC_CHECKOUT_06: validation - Missing postal code
+2026-10-06 13:07:55 ✗ [FAIL] Test failed: TC_CHECKOUT_SUMMARY: order summary total = subtotal + tax
+2026-10-06 13:07:56 ✗ [FAIL] Test failed: TC_CHECKOUT_CANCEL: cancel on info step returns to cart
+2026-10-06 13:07:56 ✗ [FAIL] Test failed: TC_CHECKOUT_BACKHOME: back home after order returns to inventory
+2026-10-06 13:07:56 ✗ [FAIL] Test failed: TC_CHECKOUT_CONFIRM_TEXT: confirmation text is displayed
+2026-10-06 13:07:58 ✗ [FAIL] Test failed: TC_CHECKOUT_RANDOM: complete order with randomly generated customer data 
+2026-10-06 13:07:59 ✗ [FAIL] Test failed: checkout validates required customer information
+2026-10-06 13:07:59 ✗ [FAIL] Test failed: checkout accepts customer information and opens the overview
+2026-10-06 13:07:59 ✗ [FAIL] Test failed: user can complete an order from login to confirmation
+2026-10-06 13:08:01 ✗ [FAIL] Test failed: TC_E2E_01: user can log in, buy two products and complete checkout @smoke
+2026-10-06 13:08:01 ✗ [FAIL] Test failed: TC_E2E_02: user can remove an item mid-journey and check out the rest
+2026-10-06 13:08:02 ✗ [FAIL] Test failed: TC_E2E_03: resetting app state mid-journey clears the cart before a fresh purchase
+2026-10-06 13:08:02 ✗ [FAIL] Test failed: TC_E2E_04: user can complete two separate purchases in one session
+2026-10-06 13:08:03 ✗ [FAIL] Test failed: has title
+2026-10-06 13:08:04 ✗ [FAIL] Test failed: get started link
+2026-10-06 13:08:04 ✗ [FAIL] Test failed: FB login Functionality
+2026-10-06 13:08:05 ✗ [FAIL] Test failed: TC_INV_01: exactly 6 products are displayed @smoke
+2026-10-06 13:08:06 ✗ [FAIL] Test failed: TC_INV_02: every product has a name, price and image
+2026-10-06 13:08:07 ✗ [FAIL] Test failed: TC_INV_03: all expected product names are present
+2026-10-06 13:08:07 ✗ [FAIL] Test failed: TC_INV_04: sort products Name A to Z @smoke
+2026-10-06 13:08:08 ✗ [FAIL] Test failed: TC_INV_05: sort products Name Z to A
+2026-10-06 13:08:09 ✗ [FAIL] Test failed: TC_INV_06: sort products Price low to high
+2026-10-06 13:08:09 ✗ [FAIL] Test failed: TC_INV_07: sort products Price high to low
+2026-10-06 13:08:10 ✗ [FAIL] Test failed: TC_INV_08: add single product updates cart badge @smoke
+2026-10-06 13:08:11 ✗ [FAIL] Test failed: TC_INV_09: add multiple products updates cart badge
+2026-10-06 13:08:12 ✗ [FAIL] Test failed: TC_INV_10: remove product from inventory decreases badge
+2026-10-06 13:08:12 ✗ [FAIL] Test failed: TC_INV_11: open product details page
+2026-10-06 13:08:12 ✗ [FAIL] Test failed: TC_INV_12: open Sauce Labs Bike Light details
+2026-10-06 13:08:14 ✗ [FAIL] Test failed: TC_INV_14: "Sauce Labs Backpack" displays the correct price
+2026-10-06 13:08:14 ✗ [FAIL] Test failed: TC_INV_14: "Sauce Labs Bike Light" displays the correct price
+2026-10-06 13:08:14 ✗ [FAIL] Test failed: TC_INV_14: "Sauce Labs Bolt T-Shirt" displays the correct price
+2026-10-06 13:08:15 ✗ [FAIL] Test failed: TC_INV_14: "Sauce Labs Fleece Jacket" displays the correct price
+2026-10-06 13:08:17 ✗ [FAIL] Test failed: TC_INV_14: "Sauce Labs Onesie" displays the correct price
+2026-10-06 13:08:17 ✗ [FAIL] Test failed: TC_INV_14: "Test.allTheThings() T-Shirt (Red)" displays the correct price
+2026-10-06 13:08:17 ✗ [FAIL] Test failed: TC_INV_15: reset app state clears the cart badge
+2026-10-06 13:08:17 ✗ [FAIL] Test failed: inventory page lists products and supports sorting
+2026-10-06 13:08:19 ✗ [FAIL] Test failed: inventory page supports adding multiple products to the cart
+2026-10-06 13:08:20 ✗ [FAIL] Test failed: TC_WIN_01: twitter icon opens in a new tab
+2026-10-06 13:08:20 ✗ [FAIL] Test failed: TC_WIN_02: facebook icon opens in a new tab
+2026-10-06 13:08:20 ✗ [FAIL] Test failed: TC_WIN_03: linkedin icon opens in a new tab
+2026-10-06 13:08:22 ✗ [FAIL] Test failed: Demo user
+2026-10-06 13:08:22 ✗ [FAIL] Test failed: TC_WIN_04: original tab stays on inventory after opening a social tab @smoke
+2026-10-06 13:08:22 ✗ [FAIL] Test failed: Data driven test for standard
+2026-10-06 13:08:23 ✗ [FAIL] Test failed: Data driven test for lockedOut
+2026-10-06 13:08:25 ✗ [FAIL] Test failed: invalid credentials display a login error
+2026-10-06 13:08:25 ✗ [FAIL] Test failed: Data driven test for performance
+2026-10-06 13:08:25 ✗ [FAIL] Test failed: Data driven test for problem
+2026-10-06 13:08:27 ✗ [FAIL] Test failed: standard user can log in successfully
+2026-10-06 13:08:29 ✗ [FAIL] Test failed: Valid user can login

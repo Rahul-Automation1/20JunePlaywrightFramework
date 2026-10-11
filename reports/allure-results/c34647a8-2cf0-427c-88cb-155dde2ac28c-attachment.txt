@@ -1,0 +1,11 @@
+2026-10-11 11:49:59 ℹ [INFO] Navigated to: https://www.saucedemo.com/
+2026-10-11 11:50:00 ℹ [INFO] Filled field: getByPlaceholder('Username')
+2026-10-11 11:50:00 ℹ [INFO] Filled field: locator('#password')
+2026-10-11 11:50:00 ℹ [INFO] Clicked on: getByRole('button', { name: 'Login' })
+2026-10-11 11:50:00 ℹ [INFO] Submitted login form
+2026-10-11 11:50:00 ℹ [INFO] Clicked on: locator('[data-test="add-to-cart-sauce-labs-backpack"]')
+2026-10-11 11:50:00 ℹ [INFO] Added product to cart: Sauce Labs Backpack
+2026-10-11 11:50:00 ℹ [INFO] Clicked on: locator('[data-test="add-to-cart-sauce-labs-bike-light"]')
+2026-10-11 11:50:00 ℹ [INFO] Added product to cart: Sauce Labs Bike Light
+2026-10-11 11:50:00 ℹ [INFO] Clicked on: locator('#react-burger-menu-btn')
+2026-10-11 11:50:01 ℹ [INFO] Clicked on: locator('#reset_sidebar_link')

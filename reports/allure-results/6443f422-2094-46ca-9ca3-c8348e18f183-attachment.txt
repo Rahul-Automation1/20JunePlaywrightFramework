@@ -1,0 +1,5 @@
+2026-10-11 11:50:04 ℹ [INFO] Navigated to: https://www.saucedemo.com/
+2026-10-11 11:50:04 ℹ [INFO] Filled field: getByPlaceholder('Username')
+2026-10-11 11:50:04 ℹ [INFO] Filled field: locator('#password')
+2026-10-11 11:50:05 ℹ [INFO] Clicked on: getByRole('button', { name: 'Login' })
+2026-10-11 11:50:05 ℹ [INFO] Submitted login form

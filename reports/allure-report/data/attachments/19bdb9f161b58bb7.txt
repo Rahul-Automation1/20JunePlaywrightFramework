@@ -1,0 +1,8 @@
+2026-10-11 11:50:01 ℹ [INFO] Navigated to: https://www.saucedemo.com/
+2026-10-11 11:50:01 ℹ [INFO] Filled field: getByPlaceholder('Username')
+2026-10-11 11:50:01 ℹ [INFO] Filled field: locator('#password')
+2026-10-11 11:50:02 ℹ [INFO] Clicked on: getByRole('button', { name: 'Login' })
+2026-10-11 11:50:02 ℹ [INFO] Submitted login form
+2026-10-11 11:50:02 ℹ [INFO] Selected option "lohi" in: locator('[data-test="product-sort-container"]')
+2026-10-11 11:50:02 ℹ [INFO] Sorted inventory using option: lohi
+2026-10-11 11:50:02 ℹ [INFO] Verified inventory products and ascending price sort

@@ -1,0 +1,11 @@
+2026-10-11 11:49:18 ℹ [INFO] Navigated to: https://www.saucedemo.com/
+2026-10-11 11:49:18 ℹ [INFO] Filled field: getByPlaceholder('Username')
+2026-10-11 11:49:18 ℹ [INFO] Filled field: locator('#password')
+2026-10-11 11:49:18 ℹ [INFO] Clicked on: getByRole('button', { name: 'Login' })
+2026-10-11 11:49:18 ℹ [INFO] Submitted login form
+2026-10-11 11:49:19 ℹ [INFO] Clicked on: locator('[data-test="add-to-cart-sauce-labs-backpack"]')
+2026-10-11 11:49:19 ℹ [INFO] Added product to cart: Sauce Labs Backpack
+2026-10-11 11:49:19 ℹ [INFO] Clicked on: locator('//a[@class=\'shopping_cart_link\']')
+2026-10-11 11:49:19 ℹ [INFO] Opened the shopping cart
+2026-10-11 11:49:19 ℹ [INFO] Removing item from cart: Sauce Labs Backpack
+2026-10-11 11:49:19 ℹ [INFO] Clicked on: locator('[data-test="remove-sauce-labs-backpack"]')
